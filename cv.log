@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.11.9)  13 JUN 2018 02:03
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.11.9)  19 SEP 2018 16:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1196,37 +1196,39 @@ Overfull \hbox (3.20001pt too wide) in paragraph at lines 25--36
    [] 
  []
 
-) (./cv/experience.tex
+) (./cv/experience-detailed.tex
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/bx/n' will be
+(Font)              scaled to size 9.0pt on input line 47.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 30.
+(Font)              scaled to size 9.0pt on input line 47.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/bx/n' will be
-(Font)              scaled to size 9.0pt on input line 30.
-) (./cv/skills.tex
+(Font)              scaled to size 9.0pt on input line 47.
+ [1
+
+]) (./cv/skills.tex
 Overfull \hbox (59.68881pt too wide) in alignment at lines 10--28
 [] [] 
  []
 
-) [1
-
-] (./cv/honors.tex
+) (./cv/honours.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 16.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/n' will be
 (Font)              scaled to size 9.0pt on input line 16.
 ) (./cv/other.tex) (./cv/memberships.tex) [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 105.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 104.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
  (./cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 105.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 105.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 104.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 104.
  ) 
 Here is how much of TeX's memory you used:
- 37004 strings out of 493005
- 722815 string characters out of 6134596
- 911656 words of memory out of 5000000
- 40472 multiletter control sequences out of 15000+600000
- 7417 words of font info for 89 fonts, out of 8000000 for 9000
+ 37006 strings out of 493005
+ 722952 string characters out of 6134596
+ 913636 words of memory out of 5000000
+ 40473 multiletter control sequences out of 15000+600000
+ 7425 words of font info for 90 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,13n,89p,10378b,549s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,13n,89p,10378b,554s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on cv.pdf (2 pages).
